@@ -1,9 +1,10 @@
 # Hi, I'm Peter Lambert
 
-A Data Scientist from England, based in London. I'm currently working on a range of projects which I'm always happy to talk about.
+A Data Scientist from England, based in London. I'm currently working on a range of projects which I'd love to talk about.
+
 
 🔭 I’m currently working on:
-- <strong> Neural Language Processing </strong>– Modelling twitter sentiment to inform crypto trading strategies
+- <strong> Neural Language Processing </strong>– Modelling twitter sentiment using RNN's to inform crypto trading strategies
 - <strong> Machine Learning </strong> - Employee churn analysis using Logistic Regression and Random Forests
 - <strong> Data visualisation </strong>– Seaborn, Matplotlib, R to communicate a data-driven story
 
@@ -20,6 +21,7 @@ A Data Scientist from England, based in London. I'm currently working on a range
 ## 📫 How to reach me: ...
 [![](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=mailto:eryajf@163.com)](https://www.linkedin.com/in/peter-lambert-13884a180/)
 [![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Microsoft&logoColor=white&link=mailto:eryajf@163.com)](mailto:peter_lambert@hotmail.co.uk)
+
 
 ## Tools
 
