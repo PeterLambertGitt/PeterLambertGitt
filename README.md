@@ -15,7 +15,6 @@ A Data Scientist from England, based in London. I'm currently working on a range
  
 💬 Ask me about:
 # CryptoBot!
-<br>
 
 
 ## 📫 How to reach me: ...
