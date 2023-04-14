@@ -4,7 +4,8 @@ A Data Scientist from England, based in London. I'm currently working on a range
 
 
 🔭 I’m currently working on:
-- <strong> Neural Language Processing </strong>– [crypto_2](git@github.com:PeterLambertGitt/crypto_2.git) Modelling twitter sentiment using RNN's to inform crypto trading strategies
+- [crypto_2](git@github.com:PeterLambertGitt/crypto_2.git) 
+- <strong> Neural Language Processing </strong>–  Modelling twitter sentiment using RNN's to inform crypto trading strategies
 - <strong> Machine Learning </strong> - Employee churn analysis using Logistic Regression and Random Forests
 - <strong> Data visualisation </strong>– Seaborn, Matplotlib, R to communicate a data-driven story
 
