@@ -3,11 +3,11 @@
 A Data Scientist from England, based in London. I'm currently working on a range of projects which I'd love to talk about.
 
 
-🔭 I’m currently working on: 
+🔭 Projects of mine: 
 - 
-- <strong> Neural Language Processing </strong>–  [Modelling twitter sentiment using RNN's to inform crypto trading strategies](https://github.com/PeterLambertGitt/crypto_2)
-- <strong> Machine Learning </strong> - Employee churn analysis using Logistic Regression and Random Forests
-- <strong> Data visualisation </strong>– Seaborn, Matplotlib, R to communicate a data-driven story
+- <strong> Crypto Sentiment Analysis </strong>–  [Modelling twitter sentiment using NLP through RNN's to inform crypto trading strategies. Data Pipelines, NLP, Deep Learning, Trading Strategies, Python.](https://github.com/PeterLambertGitt/crypto_2)
+- <strong> Employee Churn Analysis </strong> - [Analysing an employee dataset to improve high-performing employee retention. Pandas, Seaborn, Juypter Notebooks, Logistic Regression, Data Visualisation.](https://github.com/PeterLambertGitt/employee_churn)
+
 
 🌱 I’m currently learning:
 - <strong> R: Statistical Analysis </strong>
