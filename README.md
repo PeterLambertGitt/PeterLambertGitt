@@ -15,7 +15,7 @@ A Data Scientist from England, based in London. I'm currently working on a range
 - <strong> Docker: Containerized Application Development </strong>
  
 💬 Ask me about:
-# CryptoBot!
+# 🤖 CryptoBot!
 
 
 ## 📫 How to reach me: ...
