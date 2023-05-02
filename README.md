@@ -4,16 +4,26 @@ A Data Scientist from England, based in London. I'm currently working on a range
 
 
 🔭 Projects of mine: 
-- 
-- <strong> Crypto Sentiment Analysis </strong>–  [Modelling twitter sentiment using NLP through RNN's to inform crypto trading strategies. Data Pipelines, NLP, Deep Learning, Trading Strategies, Python.](https://github.com/PeterLambertGitt/crypto_2)
-Visualisation 1            |  Visualisation 2          |  Visualisation 3                    
-:-------------------------:|:-------------------------:|:-------------------------:
-![Alt text](presentation_pictures/data_vis_1.png)  |  ![Alt text](presentation_pictures/data_vis_2.png)|  ![Alt text](presentation_pictures/data_vis_3.png)
 
-- <strong> Employee Churn Analysis </strong> - [Analysing an employee dataset to improve high-performing employee retention. Pandas, Seaborn, Juypter Notebooks, Logistic Regression, Data Visualisation.](https://github.com/PeterLambertGitt/employee_churn)
-Visualisation 1            |  Visualisation 2          |  Visualisation 3                    
+ ## <p align="center"><strong> [Crypto Sentiment Analysis](https://github.com/PeterLambertGitt/crypto_2) </strong></p>
+
+### <p align="center"> Modelling twitter sentiment using NLP through RNN's to inform crypto trading strategies </p>
+
+<p align="center">Skills used: Data Pipelines, NLP, Deep Learning, Trading Strategies, Python, APIs </p>
+
+Sentiment to price relationship|  Trading strategy profit          |  Project workflow and data pipeline            
 :-------------------------:|:-------------------------:|:-------------------------:
-![Alt text](presentation_pictures/data_vis_1.png)  |  ![Alt text](presentation_pictures/data_vis_2.png)|  ![Alt text](presentation_pictures/data_vis_3.png)
+![Alt text](crypto1.png)  |  ![Alt text](crypto4.png)|  ![Alt text](crypto2.png)
+
+## <p align="center"><strong> [Employee Churn Analysis](https://github.com/PeterLambertGitt/employee_churn) </strong></p>
+
+### <p align="center"> Analysing employee data to improve high-performing employee retention. </p>
+
+<p align="center"> Skills used: Pandas, Seaborn, Juypter Notebooks, Logistic Regression, Data Visualisation </p>
+
+Analysis of leavers by age category           |  Analysis of job satisfaction over time          |  Analysis of Logistic Regression Coefficients                    
+:-------------------------:|:-------------------------:|:-------------------------:
+![Alt text](data_vis_1.png)  |  ![Alt text](data_vis_2.png)|  ![Alt text](log_reg_1.png)
 
 
 🌱 I’m currently learning:
