@@ -9,7 +9,7 @@ A Data Scientist from England, based in London. I'm currently working on a range
 
 ### <p align="center"> Modelling twitter sentiment using NLP through RNN's to inform crypto trading strategies </p>
 
-<p align="center">Skills used: Data Pipelines, NLP, Deep Learning, Trading Strategies, Python, APIs </p>
+<p align="center">Skills used: Data Pipelines, NLP, Deep Learning, Trading Strategies, Python, APIs, Production Code, Code Packaging </p>
 
 Sentiment to price relationship|  Trading strategy profit          |  Project workflow and data pipeline            
 :-------------------------:|:-------------------------:|:-------------------------:
