@@ -10,7 +10,7 @@ A Data Scientist from England, based in London. I'm currently working on a range
 
  ## <p align="center"><strong> [Crypto Sentiment Analysis](https://github.com/PeterLambertGitt/crypto_2) </strong></p>
 
-### <p align="center"> Modelling twitter sentiment using NLP through RNN's to inform crypto trading strategies </p>
+### <p align="center"> Modelling twitter sentiment using NLP and Deep Learning to inform crypto trading strategies </p>
 
 <p align="center">Skills used: Data Pipelines, NLP, Deep Learning, Trading Strategies, Python, APIs, Production Code, Code Packaging </p>
 
