@@ -2,7 +2,7 @@
 
 A Data Scientist from England, based in London. I'm currently working on a range of projects which I'd love to talk about.
 
-🦫 Examples of my work: [Data Analysis](https://github.com/PeterLambertGitt/employee_churn/blob/master/data_analysis/data_analysis.ipynb), [Data Visualisation](https://github.com/PeterLambertGitt/crypto_2), [Presentations](https://github.com/PeterLambertGitt/employee_churn/blob/master/powerpoint_presentation/high_performance_employee_churn_presentation.pptx), [Production Code](https://github.com/PeterLambertGitt/crypto_2/tree/main/master_code), 
+🦫 Examples of my work: [Data Analysis](https://github.com/PeterLambertGitt/employee_churn/blob/master/data_analysis/data_analysis.ipynb), [Data Visualisation](https://www.canva.com/design/DAFdUCdcSRI/g_YhFyK26dEKrt5J0LeU0w/view#1), [Presentations](https://github.com/PeterLambertGitt/employee_churn/blob/master/powerpoint_presentation/high_performance_employee_churn_presentation.pptx), [Production Code](https://github.com/PeterLambertGitt/crypto_2/tree/main/master_code), 
 [Data Pipelines](https://github.com/PeterLambertGitt/crypto_2/blob/main/master_code/live_updating_master.py),
 [Logistic Regression](https://github.com/PeterLambertGitt/employee_churn/blob/master/modelling/logistic_regression.ipynb)
 
