@@ -2,6 +2,9 @@
 
 A Data Scientist from England, based in London. I'm currently working on a range of projects which I'd love to talk about.
 
+🦫 Examples of my work: [Data Analysis](https://github.com/PeterLambertGitt/employee_churn/blob/master/data_analysis/data_analysis.ipynb), [Data Visualisation](https://github.com/PeterLambertGitt/crypto_2), [Presentations](https://github.com/PeterLambertGitt/employee_churn/blob/master/powerpoint_presentation/high_performance_employee_churn_presentation.pptx), [Production Code](https://github.com/PeterLambertGitt/crypto_2/tree/main/master_code), 
+[Data Pipelines](https://github.com/PeterLambertGitt/crypto_2/blob/main/master_code/live_updating_master.py),
+[Logistic Regression](https://github.com/PeterLambertGitt/employee_churn/blob/master/modelling/logistic_regression.ipynb)
 
 🔭 Projects of mine: 
 
@@ -21,9 +24,9 @@ Sentiment to price relationship|  Trading strategy profit          |  Project wo
 
 <p align="center"> Skills used: Pandas, Seaborn, Juypter Notebooks, Logistic Regression, Data Visualisation </p>
 
-Analysis of leavers by age category           |  Analysis of job satisfaction over time          |  Analysis of Logistic Regression Coefficients                    
-:-------------------------:|:-------------------------:|:-------------------------:
-![Alt text](data_vis_1.png)  |  ![Alt text](data_vis_2.png)|  ![Alt text](log_reg_1.png)
+Analysis of leavers by age category|  Analysis of job satisfaction over time          |  Analysis of Logistic Regression Coefficients |  Logistic Regression Classification                    
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![Alt text](data_vis_1.png)  |  ![Alt text](data_vis_2.png)|  ![Alt text](log_reg_1.png)|  ![Alt text](log_reg_2_v2.png) 
 
 
 🌱 I’m currently learning:
