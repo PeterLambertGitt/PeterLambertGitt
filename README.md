@@ -36,7 +36,7 @@ Analysis of leavers by age category|  Analysis of job satisfaction over time    
 
 RFM Clustering |  K-Means Clustering Visualisation          | K-Means Clustering Visualisation                 
 :-------------------------:|:-------------------------:|:-------------------------:
-![Alt text](data/RFM_distribution.png)  |  ![Alt text](data/KMM_clusters.png)|  ![Alt text](data/KMM_clusters.png)
+![Alt text](RFM_distribution.png)  |  ![Alt text](KMM_clusters.png)|  ![Alt text](KMM_clusters.png)
 
 
 
