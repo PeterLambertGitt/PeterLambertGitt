@@ -34,9 +34,9 @@ Analysis of leavers by age category|  Analysis of job satisfaction over time    
 
 <p align="center"> Skills used: K-Means Clustering, RFM Analysis, Pandas, Seaborn, Juypter Notebooks, MatPlotLib </p>
 
-RFM Clustering |  K-Means Clustering Visualisation          | K-Means Clustering Visualisation                 
-:-------------------------:|:-------------------------:|:-------------------------:
-![Alt text](RFM_distribution.png)  |  ![Alt text](KMM_clusters.png)|  ![Alt text](KMM_clusters.png)
+RFM Clustering |  K-Means Clustering Visualisation                        
+:-------------------------:|:-------------------------:
+![Alt text](RFM_distribution.png)  |  ![Alt text](KMM_clusters.png)
 
 
 
