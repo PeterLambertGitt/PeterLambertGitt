@@ -28,6 +28,17 @@ Analysis of leavers by age category|  Analysis of job satisfaction over time    
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![Alt text](data_vis_1.png)  |  ![Alt text](data_vis_2.png)|  ![Alt text](log_reg_1.png)|  ![Alt text](log_reg_2_v2.png) 
 
+## <p align="center"><strong> [Customer Segmentation](https://github.com/PeterLambertGitt/customer_segmentation) </strong></p>
+
+### <p align="center"> Using various modelling techniques to segment customers for applications such as marketing campaigns and increased engagement. </p>
+
+<p align="center"> Skills used: K-Means Clustering, RFM Analysis, Pandas, Seaborn, Juypter Notebooks, MatPlotLib </p>
+
+RFM Clustering |  K-Means Clustering Visualisation          | K-Means Clustering Visualisation                 
+:-------------------------:|:-------------------------:|:-------------------------:
+![Alt text](data/RFM_distribution.png)  |  ![Alt text](data/KMM_clusters.png)|  ![Alt text](data/KMM_clusters.png)
+
+
 
 🌱 I’m currently learning:
 - <strong> R: Statistical Analysis </strong>
