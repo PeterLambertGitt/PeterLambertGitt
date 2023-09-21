@@ -2,7 +2,7 @@
 
 A Data Scientist from England, based in London. I'm currently working on a range of projects which I'd love to talk about.
 
-🦫 Examples of my work: [Data Analysis](https://github.com/PeterLambertGitt/employee_churn/blob/master/data_analysis/data_analysis.ipynb), [Data Visualisation](https://www.canva.com/design/DAFdUCdcSRI/g_YhFyK26dEKrt5J0LeU0w/view#1), [Presentations](https://github.com/PeterLambertGitt/employee_churn/blob/master/powerpoint_presentation/high_performance_employee_churn_presentation.pptx), [Production Code](https://github.com/PeterLambertGitt/crypto_2/tree/main/master_code), 
+🦫 Examples of my work: [Data Analysis](https://github.com/PeterLambertGitt/employee_churn/blob/master/data_analysis/data_analysis.ipynb), [NLP Analysis](https://github.com/PeterLambertGitt/NLP_alice_in_wonderland), [Data Visualisation](https://www.canva.com/design/DAFdUCdcSRI/g_YhFyK26dEKrt5J0LeU0w/view#1), [Presentations](https://github.com/PeterLambertGitt/employee_churn/blob/master/powerpoint_presentation/high_performance_employee_churn_presentation.pptx), [Production Code](https://github.com/PeterLambertGitt/crypto_2/tree/main/master_code), 
 [Data Pipelines](https://github.com/PeterLambertGitt/crypto_2/blob/main/master_code/live_updating_master.py),
 [Logistic Regression](https://github.com/PeterLambertGitt/employee_churn/blob/master/modelling/logistic_regression.ipynb)
 
@@ -17,6 +17,16 @@ A Data Scientist from England, based in London. I'm currently working on a range
 Sentiment to price relationship|  Trading strategy profit          |  Project workflow and data pipeline            
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Alt text](crypto1.png)  |  ![Alt text](crypto4.png)|  ![Alt text](crypto2.png)
+
+ ## <p align="center"><strong> [NLP Corpus Analysis](https://github.com/PeterLambertGitt/NLP_alice_in_wonderland) </strong></p>
+
+### <p align="center"> Analysing a corpus of text (chapters in a novel) to understand trends and defining characteristics. </p>
+
+<p align="center">Skills used: NLTK, Transformers, Data Pipelines, NLP, Deep Learning, Python, Production Code, Code Packaging </p>
+
+Wordcloud per chapter using TFIDF|  Sentiment analysis per chapter         
+:-------------------------:|:-------------------------:
+![Alt text](wordcloud_nlp.png)  |  ![Alt text](sentiment_graph_nlp.png)
 
 ## <p align="center"><strong> [Employee Churn Analysis](https://github.com/PeterLambertGitt/employee_churn) </strong></p>
 
