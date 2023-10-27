@@ -28,16 +28,6 @@ Wordcloud per chapter using TFIDF|  Sentiment analysis per chapter
 :-------------------------:|:-------------------------:
 ![Alt text](wordcloud_nlp.png)  |  ![Alt text](sentiment_graph_nlp.png)
 
-## <p align="center"><strong> [Employee Churn Analysis](https://github.com/PeterLambertGitt/employee_churn) </strong></p>
-
-### <p align="center"> Analysing employee data to improve high-performing employee retention. </p>
-
-<p align="center"> Skills used: Pandas, Seaborn, Juypter Notebooks, Logistic Regression, Data Visualisation </p>
-
-Analysis of leavers by age category|  Analysis of job satisfaction over time          |  Analysis of Logistic Regression Coefficients |  Logistic Regression Classification                    
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![Alt text](data_vis_1.png)  |  ![Alt text](data_vis_2.png)|  ![Alt text](log_reg_1.png)|  ![Alt text](log_reg_2_v2.png) 
-
 ## <p align="center"><strong> [Customer Segmentation](https://github.com/PeterLambertGitt/customer_segmentation) </strong></p>
 
 ### <p align="center"> Using various modelling techniques to segment customers for applications such as marketing campaigns and increased engagement. </p>
